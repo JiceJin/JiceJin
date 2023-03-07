@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 #### 你好，我是来自中国的Jice金
 #### Hello,i'm Jice Jin from China
 
-##### [我的登链训练营作业仓库](https://github.com/JiceJin/upchainCamp)
+## 以下是一些特别的仓库，看看你有没有要找的：
+
+### [我的登链训练营作业仓库](https://github.com/JiceJin/upchainCamp)
